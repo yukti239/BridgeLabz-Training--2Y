@@ -1,0 +1,25 @@
+If there are n nodes the there will be (n-1) edges. in trees.
+Only one path is followed in trees.
+graph is also a tree if and only all nodes are connected to each other.
+Edge- Connection link btw two nodes.
+Parent node - A node that has one or more children is called parent nodes.
+Child node- A node that comes from a parent node is called child node.
+Siblings- Node that belong to the same parent called siblings.
+Degree of a node - Total no of children that a particular node has called degree.
+Degree of tree- Highest value of nodes in all the nodes.
+Internal Nodes- Node which has at least one children is internal node.
+Leaf Node- Node which do not have any child is called leaf node.
+Level- In tree each steps from top to bottom is called level.
+Height of a node- Longest path from that node to leaf node.
+Height of a tree- longest path from root and leaf.
+Depth of a tree- longest path from bottom to top.
+Sub-tree- Trees inside trees is called.
+
+Types of tree-
+- Regular tree
+- Binary tree
+- Binary search tree
+
+Binary tree- there should be only two child in the tree one can be there but not more than two(at most 2 children).
+Binary search tree- in left the nodes should be in decreasing order and in right the nodes should be in increasing order.
+
