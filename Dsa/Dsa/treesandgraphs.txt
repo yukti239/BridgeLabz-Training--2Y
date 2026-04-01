@@ -1,1 +1,0 @@
-if there are n nodes the there will be (n-1) edges. in trees.
